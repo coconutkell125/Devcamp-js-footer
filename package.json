@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for js applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coconutkell125/Devcamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Mikele <mikelenorris@gmail.com> (http://www.yourhomepage.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coconutkell125/Devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/coconutkell125/Devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
